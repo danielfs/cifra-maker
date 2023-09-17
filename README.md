@@ -13,4 +13,4 @@ docker compose up --build
 
 ## Bugs conhecidos
 
-- [ ] Onde era pra estar **Em** ficou **D##m**. Para reproduzir teste com estes dados: `('https://www.cifraclub.com.br/anjos-de-resgate-musicas/manda-teus-anjos/', 10),`
+- [ ] danielfs/cifra-maker#1
